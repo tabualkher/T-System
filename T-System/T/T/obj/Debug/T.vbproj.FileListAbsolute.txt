@@ -1,0 +1,17 @@
+F:\Projects\T-System\T\T\bin\Debug\T.exe.config
+F:\Projects\T-System\T\T\bin\Debug\T.exe
+F:\Projects\T-System\T\T\bin\Debug\T.pdb
+F:\Projects\T-System\T\T\bin\Debug\T.xml
+F:\Projects\T-System\T\T\obj\Debug\T.vbprojAssemblyReference.cache
+F:\Projects\T-System\T\T\obj\Debug\T.Resources.resources
+F:\Projects\T-System\T\T\obj\Debug\T.vbproj.GenerateResource.cache
+F:\Projects\T-System\T\T\obj\Debug\T.exe
+F:\Projects\T-System\T\T\obj\Debug\T.xml
+F:\Projects\T-System\T\T\obj\Debug\T.pdb
+F:\Projects\T-System\T\T\obj\Debug\T.FrmLogin.resources
+F:\Projects\T-System\T\T\obj\Debug\T.FrmCompany.resources
+F:\Projects\T-System\T\T\obj\Debug\T.FrmMainForm.resources
+F:\Projects\T-System\T\T\obj\Debug\T.FrmCostCenter.resources
+F:\Projects\T-System\T\T\obj\Debug\T.FrmFiscalYear.resources
+F:\Projects\T-System\T\T\obj\Debug\T.FrmJournalEntry.resources
+F:\Projects\T-System\T\T\obj\Debug\T.FrmTreeOfAccounts.resources
